@@ -53,10 +53,12 @@ Google, Qwant et Bing sont des moteurs de recherches
 
 ## Je sais ce que représente ces sigles (je sais que la SNCF s'occupe du transport ferroviaire)
 
-* www
-* html
-* url
-* ip
-* http
-* dns
+* www : le web, pour consulter des sites, naviguer entre les pages, récupérer un document...
+* html : langage permettant de créer les pages web (leur contenu, leur structure...)
+* url : chaîne de caractères permettant d'identifier l'emplacement d'une ressource : "adresse web"
+* ip : identifiant donné à chaque machine se connectant à internet
+* http : protocole de communication utilisé sur le Web
+* dns : traduction de nom de domaine en adresse ip
 * jneca (je n'en connais aucun)
+
+## Commentaire sur l'utilisation de l'anglais
