@@ -2,10 +2,10 @@
 
 ## Pour aller sur internet, j'ai besoin de :
 
-* Un ordinateur
+* *Un ordinateur* -> un périphérique
 * ~~Un réseau wifi~~
 * Un fournisseur d'accès
-* *Une ligne téléphonique*
+* *Une ligne téléphonique* -> une mise en oeuvre de l'accès
 
 ## Maintenant que je peux aller sur internet, pour surfer sur le web, j'ai besoin de :
 
