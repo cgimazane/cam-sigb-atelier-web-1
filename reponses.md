@@ -5,7 +5,7 @@
 * Un ordinateur
 * ~~Un réseau wifi~~
 * Un fournisseur d'accès
-* Une ligne téléphonique
+* *Une ligne téléphonique*
 
 ## Maintenant que je peux aller sur internet, pour surfer sur le web, j'ai besoin de :
 
