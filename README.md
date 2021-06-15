@@ -7,3 +7,4 @@ Sessions :
 # Plan
 
 * Réponses au questionnaire
+* Généralités
