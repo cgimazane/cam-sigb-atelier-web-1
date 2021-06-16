@@ -26,3 +26,5 @@ Sessions :
 * Pause
 * En pratique
 * Retours et attentes sur le deuxième atelier
+
+[Réponses au questionnaire](./1.reponses.md)
