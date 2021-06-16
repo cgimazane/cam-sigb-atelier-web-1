@@ -8,3 +8,6 @@ Sessions :
 
 * Réponses au questionnaire
 * Généralités
+* Pause
+* En pratique
+* Retours et attentes
